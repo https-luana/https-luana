@@ -26,9 +26,14 @@
 <img align="center" alt="html-icon" height="40" width="40" src="https://user-images.githubusercontent.com/108897978/215837970-c78f27e6-ae24-40ac-8375-e3714e86627c.png">
 <img align="center" alt="css-icon" height="40" width="40" src="https://user-images.githubusercontent.com/108897978/215839163-c4192339-9213-437c-919a-e130e0eba851.png">
 <img align="center" alt="Js-icon" height="40" width="40" src="https://user-images.githubusercontent.com/108897978/215839187-40805498-df07-4432-b16b-765021daa805.png">
-<img align="center" alt="Rafa-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/108897978/215840153-11b201b6-4ac7-43f0-83d2-abb73cc1fa39.png">
+<img align="center" alt="react-icon" height="40" width="40" src="https://user-images.githubusercontent.com/108897978/215840153-11b201b6-4ac7-43f0-83d2-abb73cc1fa39.png">
 </div>
 <br>
+
+<div>
+<img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-luana&layout=compact&hide_border=true&title_color=CE56FF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
 
 ##
 
