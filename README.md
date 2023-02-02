@@ -30,11 +30,13 @@
 </div>
 <br>
 
-<div>
-<img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-luana&layout=compact&hide_border=true&title_color=CE56FF&text_color=FFFFFF&bg_color=0d1117" />
+
+<div align="right">
+  <a href="https://github.com/https-luana">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=https-luana&layout=compact&hide_border=true&title_color=CE56FF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-
+  
 ##
 
 
