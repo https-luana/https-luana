@@ -45,8 +45,7 @@
   <a href="https://www.linkedin.com/in/luana-conceicao-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/users/601585434677608450" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-  <a target="_blank" href="https://discord.com/users/601585434677608450">
-	<img title="Discord" alt="Discord" width="40px" src="https://i.imgur.com/n5C5PKl.png">
+
   
 </div>
 
