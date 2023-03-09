@@ -7,6 +7,7 @@
 <img src="https://user-images.githubusercontent.com/108897978/215842829-fffb8473-f7cd-4171-818f-c83b77bc7e4c.gif" min-width="400px" max-width="300px" width="300px" align="right">
 
 ### About me
+##
 
 <p align="left">
 
@@ -46,7 +47,7 @@
   <a href="https://discord.com/users/601585434677608450" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
 
-  
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A661CA&height=120&section=footer"/>
