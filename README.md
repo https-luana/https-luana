@@ -12,7 +12,7 @@
 <p align="left">
 
 <br>
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, e também tenho dedicado meu tempo livre a assuntos relacionados a desenvolvimento front-end , focando em entender muito bem a essência das tecnologias web (HTML, CSS e JavaScript), mas também praticando a linguagem de programação Java Poo e outras ferramentas como Git, GitHub, bibliotecas e frameworks de JavaScript e CSS.
+🔘Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, e também tenho dedicado meu tempo livre a assuntos relacionados a desenvolvimento front-end , focando em entender muito bem a essência das tecnologias web (HTML, CSS e JavaScript), mas também praticando a linguagem de programação Java Poo e outras ferramentas como Git, GitHub, bibliotecas e frameworks de JavaScript e CSS.
 
 Estudando no momento👩‍💻:<br>
 🔵HTML 5 & CSS no CursoemVideo<br>
