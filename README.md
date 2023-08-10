@@ -18,7 +18,6 @@ Estudando no momento👩‍💻:<br>
 🔵HTML 5 & CSS no CursoemVideo<br>
 🔴Javascript no CursoemVideo<br>
 🟣JAVA & JAVA POO no CursoemVideo<br>
-🟡Bootcamp Banco Pan Java Developer na DIO
  </p>
  
  ##
